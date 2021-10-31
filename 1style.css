@@ -1,0 +1,63 @@
+body{
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   width: 100%;
+   height: 100vh;
+}
+
+.result {
+    width: 174px;
+    height: 25px;
+    border: 2px solid pink;
+    margin-top: 20px;
+    color: brown;
+  
+}
+.plus {
+    width: 178px;
+    height: 27px;
+    background-color: purple;
+    color: wheat;
+    margin-top:20px ;
+}
+.minus{
+    width: 178px;
+    height: 27px;
+    background-color: purple;
+    color: wheat;
+    margin-top:20px ;
+
+}
+.multiply{
+    width: 178px;
+    height: 27px;
+    background-color: purple;
+    color: wheat;
+    margin-top:20px ;
+}
+.divide{
+    width: 178px;
+    height: 27px;
+    background-color: purple;
+    color: wheat;
+    margin-top:20px ;
+    
+}
+.num1{
+    width: 171px;
+    height: 23px;
+    border: 2px solid blue;
+    color: brown;
+    margin-top:20px ;
+
+}
+.num2{
+    width: 171px;
+    height: 23px;
+    border: 2px solid blue;
+    color: brown;
+    margin-top:20px ;
+
+}
